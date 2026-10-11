@@ -1,5 +1,6 @@
-# Flowgate ONE
-### AI for your everyday business.
+<p align="center">
+  <img src="assets/banner.png" alt="Flowgate ONE — AI for your everyday business." width="100%" />
+</p>
 
 AI shouldn't belong only to big business.
 
@@ -27,3 +28,7 @@ Our focus:
 - Solutions we use ourselves before bringing them to customers.
 
 [Explore Flowgate ONE](https://flowgate.one)
+
+<p align="center">
+  <img src="assets/logo.png" alt="Flowgate ONE logo" width="56" />
+</p>
